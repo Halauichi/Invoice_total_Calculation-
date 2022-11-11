@@ -1,0 +1,21 @@
+D:\C# II\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\C# II\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\C# II\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\C# II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+D:\C# II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+D:\C# II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\C# II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\C# II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\C# II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\C# II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+D:\C#II\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\C#II\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\C#II\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\C#II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.AssemblyReference.cache
+D:\C#II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+D:\C#II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\C#II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\C#II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\C#II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\C#II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+D:\C#II\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.SuggestedBindingRedirects.cache
